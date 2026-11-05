@@ -35,7 +35,7 @@ A modern, role-based school attendance management system built with PHP and MySQ
 
 4. Open the login page:
    ```
-   http://localhost/Attendance-Management-System-master/index.php
+   http://localhost/Attendance-Management-System/index.php
    ```
 
 ## Default Admin Credentials
